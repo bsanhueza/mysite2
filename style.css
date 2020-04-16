@@ -8,10 +8,15 @@ h1 {
 }
 
 h2 {
-    font-style: italic;
+    font-style: bold;
     color: blue;
 }
 
 img {
     width: 500px;
+    border-style: solid;
+}
+
+p {
+    font-size: 40px;
 }
