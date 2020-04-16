@@ -1,0 +1,17 @@
+body {
+    background-image: url(barbacoa.jpg);
+}
+
+h1 {
+    color: white;
+    background-color: black;;
+}
+
+h2 {
+    font-style: italic;
+    color: blue;
+}
+
+img {
+    width: 500px;
+}
