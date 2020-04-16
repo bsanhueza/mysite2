@@ -17,6 +17,7 @@ img {
     border-style: solid;
 }
 
-p {
+p.paragraph {
     font-size: 40px;
+    background-color: white;
 }
